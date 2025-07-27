@@ -1,2 +1,2 @@
-firstProgram = "I am a Software Engineer"
+firstProgram = "Python Programming"
 print(firstProgram)
